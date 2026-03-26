@@ -1,4 +1,27 @@
 * {
     box-sizing: border-box;
 }
-
+h1{
+    background-color: pink;
+    color: white;
+}
+.p1{
+    color: orange;
+}
+html{
+    background-color: gray;
+}
+.p2{
+    color:greenyellow;
+}
+.p3{
+    color: lightskyblue;
+}
+.border1{
+    background-color: white;
+    padding-bottom: 50px;
+    border: 5px solid orange;
+}
+p{
+    color: white;
+}
